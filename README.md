@@ -31,7 +31,7 @@ CSS_MiniProject/
 
 ## Preview
 
-Modern sidebar navigation UI inspired by Apna College CSS Mini Project.
+Modern sidebar navigation UI.
 
 ## Author
 
